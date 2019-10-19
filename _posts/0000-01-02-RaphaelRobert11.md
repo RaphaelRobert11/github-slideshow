@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Les malades de Schneider-Ammann
 Use the left arrow to go back!
